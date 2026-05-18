@@ -77,12 +77,6 @@ body:
   validations:
     required: true
 - attributes:
-    description: A clear and concise description of what you expected to happen.
-    label: Expected Behavior
-  type: textarea
-  validations:
-    required: true
-- attributes:
     description: Not obligatory, but suggest a fix/reason for the bug
     label: Possible Solution
   type: textarea
