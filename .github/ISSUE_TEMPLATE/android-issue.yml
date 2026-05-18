@@ -38,6 +38,9 @@ body:
     - markw
     - MiThoriumSSI
     - mi8953
+    - kenzo
+    - certus
+    - gale
   type: dropdown
   validations:
     required: true
